@@ -31,7 +31,7 @@ Desenvolver e implementar uma plataforma de software capaz de integrar múltipla
 
 Para suportar o alto volume de processamento exigido por análises genômicas, a arquitetura foi desenhada com foco em escalabilidade e processamento assíncrono:
 
-* **Linguagem Principal:** Python (orquestração de processos e backend).
+* **Linguagem Principal:** Python e JavaScript.
 * **Processamento e Mensageria:** Implementação de filas de mensagens (RabbitMQ/Redis) para gerenciar rotinas de longa duração e processamento de Big Data em background.
 * **Banco de Dados:** Banco de dados relacional para armazenamento de metadados, parâmetros de execução e rastreabilidade dos experimentos.
 * **Ferramentas Integradas (Wrappers):** O software atua como um motor que encapsula e executa softwares de terceiros.
@@ -61,10 +61,10 @@ O sistema automatiza o seguinte fluxo de trabalho científico:
 
 ## 👥 Equipe e Orientação
 
-Este projeto é desenvolvido como requisito para a obtenção do grau de Bacharel em [Nome do Seu Curso] pela [Nome da Sua Universidade/Instituição].
+Este projeto é desenvolvido como requisito para a obtenção do grau de Bacharel em Engenharia de Software pela Pontifícia Universidade Católica de Minas Gerais.
 
 * **[David / David Dias Pinto]** - *Desenvolvedor* - [GitHub](https://github.com/damazu)
 * **[Vinicius / Vinicius Salles de Oliveira]** - *Desenvolvedor* - [GitHub](https://github.com/ViniiSalles)
-* **Victor / [Victor Silveira Caricatte De Araújo ]** - *Cliente* - [GitHub](https://github.com/VictorCaricatte)
+* **[Victor / Victor Silveira Caricatte De Araújo ]** - *Cliente* - [GitHub](https://github.com/VictorCaricatte)
 * **[Leonardo Vilela Cardoso]** - *Professor(a) Orientador(a)* - [Lattes]( http://lattes.cnpq.br/6741312586742178)
 * **[João Pedro Oliveira Batisteli]** - *Professor(a) Orientador(a)* - [Lattes](#)
