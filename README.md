@@ -63,8 +63,8 @@ O sistema automatiza o seguinte fluxo de trabalho científico:
 
 Este projeto é desenvolvido como requisito para a obtenção do grau de Bacharel em [Nome do Seu Curso] pela [Nome da Sua Universidade/Instituição].
 
-* **[David / David Dias Pinto]** - *Desenvolvedor* - [LinkedIn](#) | [GitHub](#https://github.com/damazu)
-* **[Vinicius / Vinicius Salles de Oliveira]** - *Desenvolvedor* - [LinkedIn](#) | [GitHub](#https://github.com/ViniiSalles)
+* **[David / David Dias Pinto]** - *Desenvolvedor* - [LinkedIn](#) | [GitHub](https://github.com/damazu)
+* **[Vinicius / Vinicius Salles de Oliveira]** - *Desenvolvedor* - [LinkedIn](#) | [GitHub](https://github.com/ViniiSalles)
 * **Victor / [Victor Silveira Caricatte De Araújo ]** - *Cliente* - [LinkedIn](#) | [GitHub](#)
 * **[Leonardo Vilela Cardoso]** - *Professor(a) Orientador(a)* - [Lattes](#)
 * **[João Pedro Oliveira Batisteli]** - *Professor(a) Orientador(a)* - [Lattes](#)
